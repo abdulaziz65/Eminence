@@ -84,6 +84,10 @@ nav .menu .menu-list li a:hover{
     color: #03309A;
     opacity: 1;
 }
+nav .menu .menu-list li a.active{
+    text-decoration: underline;
+    color: #03309A;
+}
 
 header{
     width: 100%;
